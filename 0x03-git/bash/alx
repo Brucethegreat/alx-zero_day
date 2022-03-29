@@ -1,2 +1,9 @@
 #!/bin/bash
-ALX
+echo "The school is open!"
+cat > school
+#!/bin/bash
+echo "The school is open!"
+cat > alx 
+#!/bin/bash
+echo "ALX School
+
